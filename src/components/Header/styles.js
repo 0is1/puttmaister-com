@@ -18,7 +18,7 @@ export const HeaderWrapper = styled.div`
 export const TitleWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 60%;
   padding: 0.5rem 0 0;
   @media (min-width: ${LG_BREAKPOINT}) {
     padding: 0;
