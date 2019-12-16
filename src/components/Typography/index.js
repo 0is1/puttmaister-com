@@ -46,7 +46,7 @@ export const P = styled.p`
 `;
 
 export const PSmall = styled(P)`
-  font-size: 0.85rem;
+  font-size: 0.7rem;
   @media (min-width: ${MD_BREAKPOINT}) {
     font-size: 1rem;
   }
