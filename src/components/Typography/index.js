@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { SM_BREAKPOINT, MD_BREAKPOINT } from "helpers/variables";
+import { MD_BREAKPOINT } from "helpers/variables";
 
 export const H1 = styled.h1`
   color: ${props => (props.color ? props.color : "inherit")};
