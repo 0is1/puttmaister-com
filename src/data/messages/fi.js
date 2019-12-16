@@ -1,10 +1,10 @@
 module.exports = {
   selectLanguage: "Valitse kieli",
   siteMainTitle: "Putt Maister",
-  siteSubTitle: "Laita putti jiiriin!",
+  siteSubTitle: "Laita putti jiiriin – Frisbeegolfin puttitreenit",
   frontPageSectionOneTitle: "Mikä Putt Maister?",
   frontPageSectionOne:
-    "Laita putti jiiriin ja pidä samalla helposti kirjaa puttitreeneistäsi. Seuraa tilastoista, miten harjoitukset puree! Putt Maister on sovellus, jolla pidät kirjaa puttitreeneistä ja näet mihin suuntaan puttitaidot kehittyvät. Ultimaattinen tavoite on tietysti saavuttaa 'Level: Putt Maister' 😎. Sovellus on saatavilla iOS- ja Android-käyttöjärjestelmille.",
+    "Laita putti jiiriin ja pidä samalla helposti kirjaa puttitreeneistäsi. Seuraa tilastoista, miten harjoitukset puree! Putt Maister on sovellus, jolla pidät kirjaa puttitreeneistä ja näet mihin suuntaan puttitaitosi kehittyvät. Ultimaattinen tavoite on tietysti saavuttaa 'Level: Putt Maister' 😎. Sovellus on saatavilla iOS- ja Android-käyttöjärjestelmille.",
   frontPageSectionTwoTitle: "Miten se toimii?",
   frontPageSectionTwo:
     "Putt Maister on vielä erittäin varhaisessa kehitysvaiheessa, mutta se pitää sisällään jo muutamia mukavia toimintoja:",
