@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4,5],{Wb7o:function(t,a,n){"use strict";n.r(a);n("q1tI");var b=n("aAma"),c=n("UayV"),o=n("qKvR");a.default=function(t){return Object(o.b)(c.a,{location:t.location},Object(o.b)(b.a,null,Object(o.b)(b.b,null,Object(o.b)("h1",null,"Rata"))))}},mBIU:function(t,a,n){"use strict";n.r(a);var b=n("Wb7o");a.default=b.default}}]);
+//# sourceMappingURL=component---src-pages-course-fi-js-bae87c5842ec1d6d7873.js.map
