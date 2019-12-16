@@ -1,6 +1,6 @@
 // @flow
 import React from "react";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 import { FormattedMessage } from "react-intl";
 import SelectLanguage from "components/SelectLanguage";
 import type { Langs } from "components/SelectLanguage/types";
@@ -14,9 +14,7 @@ type Props = {
 const Header = (props: Props) => (
   <HeaderContainer>
     <HeaderWrapper>
-      <Link to={"/"}>
-        <Image src="/logo-small.png" alt="logo" />
-      </Link>
+      <Image src="/logo-small.png" alt="logo" />
       <TitleWrapper>
         <H1 color="#ffffff" margin="0" padding="0" textAlign="left">
           <FormattedMessage id="siteMainTitle" />

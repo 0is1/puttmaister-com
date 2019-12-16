@@ -14,9 +14,6 @@ export const H1 = styled.h1`
   @media (min-width: ${MD_BREAKPOINT}) {
     font-size: 2.75rem;
   }
-  @media (max-width: ${SM_BREAKPOINT}) {
-    font-size: 1rem;
-  }
 `;
 export const H2 = styled.h2`
   font-family: "Roboto Condensed", sans-serif;
