@@ -18,7 +18,7 @@ export const FooterWrapper = styled.div`
 `;
 
 export const A = styled.a`
-  padding-left: 0.25rem;
+  padding: 0.25rem;
 `;
 
 export const Image = styled.img`
