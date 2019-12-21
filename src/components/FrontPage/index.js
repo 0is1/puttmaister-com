@@ -1,12 +1,17 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { FormattedMessage } from "react-intl";
 import { H2, P } from "components/Typography";
 import InjectMessageIfExists from "components/InjectMessageIfExists";
-import { ImageContainer, ImageWrapper, FeatureImage } from "./styles";
+import {
+  Container,
+  ImageContainer,
+  ImageWrapper,
+  FeatureImage
+} from "./styles";
 
 const FrontPage = () => {
   return (
-    <Fragment>
+    <Container>
       <H2 textAlign="left">
         <FormattedMessage id="frontPageSectionOneTitle" />
       </H2>
@@ -89,7 +94,7 @@ const FrontPage = () => {
           <FormattedMessage id="frontPageSectionFour" />
         </P>
       </InjectMessageIfExists>
-    </Fragment>
+    </Container>
   );
 };
 

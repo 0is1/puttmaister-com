@@ -1,6 +1,14 @@
 import styled from "@emotion/styled";
 import { LG_BREAKPOINT } from "helpers/variables";
 import { themeColor } from "constants/colors";
+
+export const Container = styled.div`
+  padding-bottom: 4rem;
+  @media (min-width: ${LG_BREAKPOINT}) {
+    padding-bottom: 2rem;
+  }
+`;
+
 export const ImageContainer = styled.div`
   display: flex;
   flex-direction: column;
