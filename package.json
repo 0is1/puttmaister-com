@@ -2,7 +2,7 @@
   "name": "puttmaister-com",
   "private": true,
   "description": "Static site for Putt Maister app",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
