@@ -3,10 +3,7 @@ import { LG_BREAKPOINT } from "helpers/variables";
 import { themeColor } from "constants/colors";
 
 export const Container = styled.div`
-  padding-bottom: 4rem;
-  @media (min-width: ${LG_BREAKPOINT}) {
-    padding-bottom: 2rem;
-  }
+  padding-bottom: 5rem;
 `;
 
 export const ImageContainer = styled.div`

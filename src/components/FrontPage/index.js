@@ -64,6 +64,21 @@ const FrontPage = () => {
           </FormattedMessage>
         </ImageWrapper>
       </ImageContainer>
+      <ImageContainer>
+        <ImageWrapper>
+          <P strong padding="0" margin="1rem 0 0.5rem">
+            <FormattedMessage id="imageSingleStatsText" />
+          </P>
+          <FormattedMessage id="imageSingleStats">
+            {src => (
+              <FeatureImage
+                src={src}
+                alt="Putt Maister single practise stats"
+              />
+            )}
+          </FormattedMessage>
+        </ImageWrapper>
+      </ImageContainer>
       <InjectMessageIfExists id="frontPageSectionThreeTitle">
         <H2 textAlign="left">
           <FormattedMessage id="frontPageSectionThreeTitle" />

@@ -16,9 +16,11 @@ module.exports = {
   imageHome: "/putt-maister-home.png",
   imageHomeText: "Practises",
   imageHomePractiseMode: "/putt-maister-practise-mode.png",
-  imageHomePractiseModeText: "Two practise modes",
+  imageHomePractiseModeText: "Three practise modes",
   imageStats: "/putt-maister-stats.png",
   imageStatsText: "Monthly stats",
   imageStatsSummary: "/putt-maister-stats-summary.png",
-  imageStatsSummaryText: "Practise summary"
+  imageStatsSummaryText: "Practise summary",
+  imageSingleStats: "/putt-maister-single-practise-stats.png",
+  imageSingleStatsText: "Single practise stats"
 };

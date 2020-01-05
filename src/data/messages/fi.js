@@ -16,9 +16,11 @@ module.exports = {
   imageHome: "/putt-maister-home-fi.png",
   imageHomeText: "Treeninäkymä",
   imageHomePractiseMode: "/putt-maister-practise-mode-fi.png",
-  imageHomePractiseModeText: "Kaksi puttitreenimoodia",
+  imageHomePractiseModeText: "Kolme puttitreenimoodia",
   imageStats: "/putt-maister-stats-fi.png",
   imageStatsText: "Kuluvan kuukauden trendit",
   imageStatsSummary: "/putt-maister-stats-summary-fi.png",
-  imageStatsSummaryText: "Kaikkien puttitreenien kehitys"
+  imageStatsSummaryText: "Kaikkien puttitreenien kehitys",
+  imageSingleStats: "/putt-maister-single-practise-stats-fi.png",
+  imageSingleStatsText: "Yksittäisen treenin tilastot"
 };
