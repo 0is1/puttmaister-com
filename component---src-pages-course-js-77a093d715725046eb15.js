@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{148:function(n,t,b){"use strict";b.r(t);var c=b(9),a=(b(0),b(161)),o=b(176);t.default=function(n){return Object(c.b)(o.a,{location:n.location},Object(c.b)(a.a,null,Object(c.b)(a.b,null,Object(c.b)("h1",null,"Rata"))))}}}]);
+//# sourceMappingURL=component---src-pages-course-js-77a093d715725046eb15.js.map
