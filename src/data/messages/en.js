@@ -1,10 +1,10 @@
 module.exports = {
   selectLanguage: "Select your language",
   siteMainTitle: "Putt Maister",
-  siteSubTitle: "The app for Disc Golf putt practise stats",
+  siteSubTitle: "The app for Disc Golf putting practise stats",
   frontPageSectionOneTitle: "What Putt Maister?",
   frontPageSectionOne:
-    "The app for Disc Golf putt practise stats. Keep track of your putting practises. See the stats, is your putting trends going up or down? Putt Maister app is available for iOS and Android.",
+    "The app for Disc Golf putting practise stats. Keep track of your putting practises. See the stats, is your putting trends going up or down? Putt Maister app is available for iOS and Android.",
   frontPageSectionTwoTitle: "How it works?",
   frontPageSectionTwo:
     "Putt Maister is on early stage of development but it already includes some nice features:",
