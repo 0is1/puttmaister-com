@@ -1,10 +1,10 @@
 module.exports = {
   selectLanguage: "Select your language",
   siteMainTitle: "Putt Maister",
-  siteSubTitle: "The app for Disc Golf putting practise stats",
+  siteSubTitle: "The app for Disc Golf putting practice stats",
   frontPageSectionOneTitle: "What Putt Maister?",
   frontPageSectionOne:
-    "The app for Disc Golf putting practise stats. Keep track of your putting practises. See the stats, is your putting trends going up or down? Putt Maister app is available for iOS and Android.",
+    "The app for Disc Golf putting practice stats. Keep track of your putting practices. See the stats, is your putting trends going up or down? Putt Maister app is available for iOS and Android.",
   frontPageSectionTwoTitle: "How it works?",
   frontPageSectionTwo:
     "Putt Maister is on early stage of development but it already includes some nice features:",
@@ -16,11 +16,11 @@ module.exports = {
   imageHome: "/putt-maister-home.png",
   imageHomeText: "Practises",
   imageHomePractiseMode: "/putt-maister-practise-mode.png",
-  imageHomePractiseModeText: "Three practise modes",
+  imageHomePractiseModeText: "Three practice modes",
   imageStats: "/putt-maister-stats.png",
   imageStatsText: "Monthly stats",
   imageStatsSummary: "/putt-maister-stats-summary.png",
   imageStatsSummaryText: "Practise summary",
   imageSingleStats: "/putt-maister-single-practise-stats.png",
-  imageSingleStatsText: "Single practise stats"
+  imageSingleStatsText: "Single practice stats"
 };
