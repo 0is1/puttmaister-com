@@ -27,3 +27,18 @@ export const Image = styled.img`
   max-width: 175px;
   width: 100%;
 `;
+
+export const Column = styled.div`
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+`;
+
+export const Text = styled.span`
+  display: none;
+  margin-top: 0.25rem;
+  @media (min-width: 768px) {
+    display: block;
+    font-size: 0.75rem;
+  }
+`;
