@@ -32,6 +32,15 @@ export const Column = styled.div`
   align-items: center;
   display: flex;
   flex-direction: column;
+  @media (min-width: 768px) {
+    flex-direction: row;
+  }
+`;
+
+export const Row = styled.div`
+  align-items: center;
+  display: flex;
+  flex-direction: row;
 `;
 
 export const Text = styled.span`

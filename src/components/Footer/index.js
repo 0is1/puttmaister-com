@@ -1,32 +1,47 @@
 import React from "react";
 import {
+  A,
   Column,
   FooterContainer,
   FooterWrapper,
   Image,
-  A,
-  Text,
+  Row,
 } from "./styles";
 
 const Footer = () => (
   <FooterContainer>
     <FooterWrapper>
-      <A href="https://apps.apple.com/us/app/putt-maister/id1491779432?l=fi&ls=1">
-        <Image src="/app-store-badge.png" />
-      </A>
-      <A href="https://play.google.com/store/apps/details?id=com.puttmaister.app">
-        <Image src="/google-play-badge.png" />
-      </A>
-      <A
-        href="https://ko-fi.com/puttmaister"
-        title="Buy me a coffee!"
-        target="_blank"
-      >
-        <Column>
-          <Image src="/ko-fi.webp" style={{ width: "55px", height: "36px" }} />
-          <Text>ko-fi.com/puttmaister</Text>
-        </Column>
-      </A>
+      <Column>
+        <Row>
+          <A href="https://apps.apple.com/us/app/putt-maister/id1491779432?l=fi&ls=1">
+            <Image
+              src="/app-store-badge.png"
+              style={{ border: "0px", height: "36px" }}
+            />
+          </A>
+          <A href="https://play.google.com/store/apps/details?id=com.puttmaister.app">
+            <Image
+              src="/google-play-badge.png"
+              style={{ border: "0px", height: "48px" }}
+            />
+          </A>
+        </Row>
+        <Row>
+          <A
+            href="https://ko-fi.com/A0A3O015J"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              height="36"
+              style={{ border: "0px", height: "36px" }}
+              src="https://storage.ko-fi.com/cdn/kofi4.png?v=3"
+              border="0"
+              alt="Buy Me a Coffee at ko-fi.com"
+            />
+          </A>
+        </Row>
+      </Column>
     </FooterWrapper>
   </FooterContainer>
 );
